@@ -1,0 +1,26 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="SceneController">
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+			<method name="SwitchScenes"/>
+		</type>
+	</assembly>
+</linker>

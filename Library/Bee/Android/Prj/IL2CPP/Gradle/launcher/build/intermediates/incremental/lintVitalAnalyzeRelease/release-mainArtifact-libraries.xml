@@ -1,0 +1,84 @@
+<libraries>
+  <library
+      name="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release"
+      jars="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/6752e04177fb41d06f12aa8b042c0825/transformed/out/jars/classes.jar:/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/6752e04177fb41d06f12aa8b042c0825/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/6752e04177fb41d06f12aa8b042c0825/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name=":arcore_client:@aar"
+      jars="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/5bb704542cba3570043c1ca9bf4fbace/transformed/arcore_client/jars/classes.jar"
+      resolved=":arcore_client:"
+      folder="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/5bb704542cba3570043c1ca9bf4fbace/transformed/arcore_client"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":ARPresto:@aar"
+      jars="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/cac8075841a3128916f8b0ff1e75bac6/transformed/ARPresto/jars/classes.jar"
+      resolved=":ARPresto:"
+      folder="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/cac8075841a3128916f8b0ff1e75bac6/transformed/ARPresto"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":UnityARCore:@aar"
+      jars="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/8b732363f7f142182b9824c5af28a131/transformed/UnityARCore/jars/classes.jar"
+      resolved=":UnityARCore:"
+      folder="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/8b732363f7f142182b9824c5af28a131/transformed/UnityARCore"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":unityandroidpermissions:@aar"
+      jars="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/942592b881e85bb2d9a4b9fd85d0e97b/transformed/unityandroidpermissions/jars/classes.jar"
+      resolved=":unityandroidpermissions:"
+      folder="/Users/shaikyaseenbasha/.gradle/caches/transforms-3/942592b881e85bb2d9a4b9fd85d0e97b/transformed/unityandroidpermissions"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/d1c83c577adec67595c34dc46aa345cd/transformed/out/jars/classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="/Users/shaikyaseenbasha/Planets AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/d1c83c577adec67595c34dc46aa345cd/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
